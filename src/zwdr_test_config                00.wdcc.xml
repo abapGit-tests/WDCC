@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_WDCC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <OBJECT_NAME>ZWDR_TEST_CONFIG                00</OBJECT_NAME>
+   <CONFIG_ID>ZWDR_TEST_CONFIG</CONFIG_ID>
+   <WDA_COMPONENT>ZWDR_TEST_CONFIG</WDA_COMPONENT>
+   <COMPONENT_CONFIGURATION_READABLE>﻿&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;
+&lt;Component Name=&quot;ZWDR_TEST_CONFIG&quot; ConfId=&quot;ZWDR_TEST_CONFIG&quot; ConfType=&quot;00&quot; ConfVar=&quot;&quot;&gt;
+ &lt;Node Name=&quot;CONFIGURATION_CONTEXT&quot; SimpleFormat=&quot;true&quot;&gt;
+  &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;&gt;
+   &lt;Node Name=&quot;BELEGWERTE&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;DATA_TYPES&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;GENERIC_PRIMARY&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;Node Name=&quot;GROUP_HEADER&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;LATE_MANADATORY&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;LISTENER_NODE&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;MAXIMALWERTE&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+   &lt;Node Name=&quot;MULTI_NO_PA&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;Node Name=&quot;NODE_MAIN&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;Node Name=&quot;SUBCONFIG&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;Node Name=&quot;TABLE_COLUMNS&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;Node Name=&quot;_FN_TABLE_COLUMNS&quot; SimpleFormat=&quot;true&quot;&gt;
+    &lt;Item Index=&quot;000001&quot; SimpleFormat=&quot;true&quot;/&gt;
+   &lt;/Node&gt;
+  &lt;/Item&gt;
+ &lt;/Node&gt;
+&lt;/Component&gt;
+</COMPONENT_CONFIGURATION_READABLE>
+   <COMPONENT_CONFIGURATION_RAW>PD94bWwgdmVyc2lvbj0iMS4wIj8+PENvbXBvbmVudCBOYW1lPSJaV0RSX1RFU1RfQ09ORklHIiBD
+b25mSWQ9IlpXRFJfVEVTVF9DT05GSUciIENvbmZUeXBlPSIwMCIgQ29uZlZhcj0iIj48Tm9kZSBO
+YW1lPSJDT05GSUdVUkFUSU9OX0NPTlRFWFQiIFNpbXBsZUZvcm1hdD0idHJ1ZSI+PEl0ZW0gSW5k
+ZXg9IjAwMDAwMSIgU2ltcGxlRm9ybWF0PSJ0cnVlIj48Tm9kZSBOYW1lPSJCRUxFR1dFUlRFIiBT
+aW1wbGVGb3JtYXQ9InRydWUiPjxJdGVtIEluZGV4PSIwMDAwMDEiIFNpbXBsZUZvcm1hdD0idHJ1
+ZSIvPjwvTm9kZT48Tm9kZSBOYW1lPSJEQVRBX1RZUEVTIiBTaW1wbGVGb3JtYXQ9InRydWUiPjxJ
+dGVtIEluZGV4PSIwMDAwMDEiIFNpbXBsZUZvcm1hdD0idHJ1ZSIvPjwvTm9kZT48Tm9kZSBOYW1l
+PSJHRU5FUklDX1BSSU1BUlkiIFNpbXBsZUZvcm1hdD0idHJ1ZSIvPjxOb2RlIE5hbWU9IkdST1VQ
+X0hFQURFUiIgU2ltcGxlRm9ybWF0PSJ0cnVlIj48SXRlbSBJbmRleD0iMDAwMDAxIiBTaW1wbGVG
+b3JtYXQ9InRydWUiLz48L05vZGU+PE5vZGUgTmFtZT0iTEFURV9NQU5BREFUT1JZIiBTaW1wbGVG
+b3JtYXQ9InRydWUiPjxJdGVtIEluZGV4PSIwMDAwMDEiIFNpbXBsZUZvcm1hdD0idHJ1ZSIvPjwv
+Tm9kZT48Tm9kZSBOYW1lPSJMSVNURU5FUl9OT0RFIiBTaW1wbGVGb3JtYXQ9InRydWUiPjxJdGVt
+IEluZGV4PSIwMDAwMDEiIFNpbXBsZUZvcm1hdD0idHJ1ZSIvPjwvTm9kZT48Tm9kZSBOYW1lPSJN
+QVhJTUFMV0VSVEUiIFNpbXBsZUZvcm1hdD0idHJ1ZSI+PEl0ZW0gSW5kZXg9IjAwMDAwMSIgU2lt
+cGxlRm9ybWF0PSJ0cnVlIi8+PC9Ob2RlPjxOb2RlIE5hbWU9Ik1VTFRJX05PX1BBIiBTaW1wbGVG
+b3JtYXQ9InRydWUiLz48Tm9kZSBOYW1lPSJOT0RFX01BSU4iIFNpbXBsZUZvcm1hdD0idHJ1ZSIv
+PjxOb2RlIE5hbWU9IlNVQkNPTkZJRyIgU2ltcGxlRm9ybWF0PSJ0cnVlIi8+PE5vZGUgTmFtZT0i
+VEFCTEVfQ09MVU1OUyIgU2ltcGxlRm9ybWF0PSJ0cnVlIi8+PE5vZGUgTmFtZT0iX0ZOX1RBQkxF
+X0NPTFVNTlMiIFNpbXBsZUZvcm1hdD0idHJ1ZSI+PEl0ZW0gSW5kZXg9IjAwMDAwMSIgU2ltcGxl
+Rm9ybWF0PSJ0cnVlIi8+PC9Ob2RlPjwvSXRlbT48L05vZGU+PC9Db21wb25lbnQ+</COMPONENT_CONFIGURATION_RAW>
+   <DESCR_LANG>
+    <WDY_CONFIG_DATT>
+     <CONFIG_ID>ZWDR_TEST_CONFIG</CONFIG_ID>
+     <LANGU>E</LANGU>
+     <DESCRIPTION>Test Config</DESCRIPTION>
+    </WDY_CONFIG_DATT>
+   </DESCR_LANG>
+  </asx:values>
+ </asx:abap>
+</abapGit>
