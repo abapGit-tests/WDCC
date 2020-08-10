@@ -34377,27 +34377,6 @@
      <SOURCE_LINE>endmethod.</SOURCE_LINE>
     </WDY_CTLR_COMPO_SOURCE_VRS>
    </SOURCES>
-   <SOTR>
-    <item>
-     <HEADER>
-      <CONCEPT>000D3A8FA0651EEAB4B6CA1C9E48884E</CONCEPT>
-      <CREA_LAN>E</CREA_LAN>
-      <TRALA_TYPE>1</TRALA_TYPE>
-      <OBJID_VEC>AEA=</OBJID_VEC>
-     </HEADER>
-     <ENTRIES>
-      <SOTR_TEXT>
-       <CONCEPT>000D3A8FA0651EEAB4B6CA1C9E48884E</CONCEPT>
-       <LANGU>E</LANGU>
-       <LFD_NUM>0001</LFD_NUM>
-       <FLAG_CNTXT>X</FLAG_CNTXT>
-       <STATUS>R</STATUS>
-       <LENGTH>023</LENGTH>
-       <TEXT>Table Example</TEXT>
-      </SOTR_TEXT>
-     </ENTRIES>
-    </item>
-   </SOTR>
   </asx:values>
  </asx:abap>
 </abapGit>
