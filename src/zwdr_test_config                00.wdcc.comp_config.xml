@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Component Name="ZWDR_TEST_CONFIG" ConfId="ZWDR_TEST_CONFIG" ConfType="00" ConfVar="">
+ <Node Name="CONFIGURATION_CONTEXT" SimpleFormat="true">
+  <Item Index="000001" SimpleFormat="true">
+   <Node Name="BELEGWERTE" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="DATA_TYPES" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="GENERIC_PRIMARY" SimpleFormat="true"/>
+   <Node Name="GROUP_HEADER" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="LATE_MANADATORY" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="LISTENER_NODE" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="MAXIMALWERTE" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+   <Node Name="MULTI_NO_PA" SimpleFormat="true"/>
+   <Node Name="NODE_MAIN" SimpleFormat="true"/>
+   <Node Name="SUBCONFIG" SimpleFormat="true"/>
+   <Node Name="TABLE_COLUMNS" SimpleFormat="true"/>
+   <Node Name="_FN_TABLE_COLUMNS" SimpleFormat="true">
+    <Item Index="000001" SimpleFormat="true"/>
+   </Node>
+  </Item>
+ </Node>
+</Component>
